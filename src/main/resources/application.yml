@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: consumer
+  cloud:
+    discovery:
+      enabled: true
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+server:
+  port: 7778
