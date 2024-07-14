@@ -1,4 +1,4 @@
-package com.vectorlink.common.bean;
+package com.vectorlink.common;
 
 import java.io.Serializable;
 import com.alibaba.fastjson.JSON;

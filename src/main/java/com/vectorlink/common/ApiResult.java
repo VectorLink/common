@@ -1,4 +1,4 @@
-package com.vectorlink.common.bean;
+package com.vectorlink.common;
 
 public class ApiResult<T> extends BasicResult {
     public static final String SUCCESS_STR = "SUCCESS";
